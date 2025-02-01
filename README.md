@@ -1,2 +1,4 @@
-# demo
-first git repository
+# Demo
+ This is my first git repository.
+ <br>
+ Author-Harsh
